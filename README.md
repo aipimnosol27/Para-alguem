@@ -1,2 +1,5 @@
 # Para-alguem
-use para alguem, namorada, familar, amiga/amigo quem seja.
+Use para alguém, namorada, familar, amiga/amigo quem seja.
+
+# Aviso
+Por favor não altere nada.
